@@ -44,3 +44,5 @@ Rules:
       Use methods defined as guidance and instruction for planning the structure of the index. That is, the index structure should support the effective implementation of these methods.
       It can be assumed that the methods will be activated only after the index is built by NonCompressedIndexWriter.
       The implementation should be in such a way that it will be effective even when the index contains huge amounts of data.
+
+## 🚀 5. For further information please open the PDF attached to the Project (Project_Requirements.pdf), it contains more detailed instructions
